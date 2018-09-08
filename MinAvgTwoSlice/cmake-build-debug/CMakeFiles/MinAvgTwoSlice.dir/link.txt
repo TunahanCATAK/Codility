@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MinAvgTwoSlice.dir/main.cpp.o  -o MinAvgTwoSlice 

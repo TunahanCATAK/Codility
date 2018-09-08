@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/trainingRs7AVD_AWN.dir/main.cpp.o  -o trainingRs7AVD_AWN 

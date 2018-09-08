@@ -1,0 +1,3 @@
+/home/tunahan/CLionProjects/Codility/MinAvgTwoSlice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tunahan/CLionProjects/Codility/MinAvgTwoSlice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tunahan/CLionProjects/Codility/MinAvgTwoSlice/cmake-build-debug/CMakeFiles/MinAvgTwoSlice.dir

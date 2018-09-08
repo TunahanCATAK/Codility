@@ -1,0 +1,3 @@
+/home/tunahan/CLionProjects/Codility/trainingRs7AVD-AWN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tunahan/CLionProjects/Codility/trainingRs7AVD-AWN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tunahan/CLionProjects/Codility/trainingRs7AVD-AWN/cmake-build-debug/CMakeFiles/trainingRs7AVD_AWN.dir

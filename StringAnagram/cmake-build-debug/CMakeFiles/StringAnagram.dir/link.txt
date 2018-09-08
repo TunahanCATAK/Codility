@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StringAnagram.dir/main.cpp.o  -o StringAnagram 
