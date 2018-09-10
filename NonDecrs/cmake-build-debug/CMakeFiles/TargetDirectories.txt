@@ -1,0 +1,3 @@
+/home/ctsnz0060/Codility/NonDecrs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ctsnz0060/Codility/NonDecrs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctsnz0060/Codility/NonDecrs/cmake-build-debug/CMakeFiles/NonDecrs.dir

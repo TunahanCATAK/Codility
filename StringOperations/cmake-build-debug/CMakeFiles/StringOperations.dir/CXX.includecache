@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ctsnz0060/Codility/StringOperations/main.cpp
+iostream
+-
+vector
+-
+map
+-
+sstream
+-
+string
+-
+algorithm
+-
+numeric
+-
+

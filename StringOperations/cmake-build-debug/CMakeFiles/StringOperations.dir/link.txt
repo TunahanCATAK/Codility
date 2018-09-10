@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StringOperations.dir/main.cpp.o  -o StringOperations 

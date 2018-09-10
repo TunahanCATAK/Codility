@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PrefixMedian.dir/main.cpp.o  -o PrefixMedian 

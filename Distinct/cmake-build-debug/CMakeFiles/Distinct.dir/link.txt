@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Distinct.dir/main.cpp.o  -o Distinct 

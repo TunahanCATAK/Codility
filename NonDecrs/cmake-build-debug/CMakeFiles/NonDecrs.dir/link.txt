@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NonDecrs.dir/main.cpp.o  -o NonDecrs 

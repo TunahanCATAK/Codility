@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/coinTest.dir/main.cpp.o  -o coinTest 

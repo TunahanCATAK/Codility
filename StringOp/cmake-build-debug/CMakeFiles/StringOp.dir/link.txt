@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StringOp.dir/main.cpp.o  -o StringOp 
